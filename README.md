@@ -1,2 +1,2 @@
 # Projectile-motion-numerical
-This is a numerical simulator for projectile motion using the euler method.
+This is a numerical simulator for projectile motion using the euler method. Each section of code uses the euler method to iteratively solve for the motion of a projectile acting under gravity. This work was completed as a part of the coursework for my first year Labs and Data analysis 2 module. The first section is solves the motion using the euler method for zero drag, the second solves projectile motion for zero drag and using the velocity verlet method and the third solves for the projectile's motion including drag through different fluids using the euler method.
